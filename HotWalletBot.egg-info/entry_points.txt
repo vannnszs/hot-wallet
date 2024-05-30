@@ -1,0 +1,2 @@
+[console_scripts]
+hotwalletbot = hotwalletbot.main:main

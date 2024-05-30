@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+herewalletbot/__init__.py
+herewalletbot/herewalletbot.py
+herewalletbot.egg-info/PKG-INFO
+herewalletbot.egg-info/SOURCES.txt
+herewalletbot.egg-info/dependency_links.txt
+herewalletbot.egg-info/entry_points.txt
+herewalletbot.egg-info/top_level.txt

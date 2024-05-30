@@ -1,0 +1,2 @@
+[console_scripts]
+herewalletbot = herewalletbot.main:main
